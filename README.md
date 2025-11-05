@@ -38,7 +38,7 @@ Reach Me at **ars.obadage@gmail.com**
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Laravel" src="https://custom-icon-badges.herokuapp.com/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"></a>
+    
 </p>
 <p>
     <a href="#"><img alt="GitHub" src="https://custom-icon-badges.herokuapp.com/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
