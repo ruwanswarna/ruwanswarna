@@ -30,6 +30,7 @@ Reach Me at
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruwanswarna&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanswarna&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ruwanswarna&theme=tokyonight)  
 
 
 ### Some of my personal interests
@@ -43,25 +44,6 @@ Reach Me at
 
 🔍 Learn about **APIs**, **authentication**, and **deployment**  
 
-
-## 🏆 LinkedIn & GitHub Achievements  
-
-### 🔗 **LinkedIn Highlights**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anusha-obadage-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anusha-obadage/)
-
-- 🎓 Completed online courses on **Web Development**, **JavaScript**, and **Laravel**
-- 💼 Shared and documented projects from GitHub on my LinkedIn profile
-- 💬 Actively engaging in tech discussions and networking with developers
-- 🧾 Featured GitHub portfolio and key projects on my profile
-
----
-
-### 🧑‍💻 **GitHub Achievements**
-
-#### 📊 Stats & Streaks  
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruwanswarna&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ruwanswarna&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanswarna&layout=compact&theme=tokyonight)
 
 #### 🏅 Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ruwanswarna&theme=onestar&no-bg=true&no-frame=true&margin-w=15)
