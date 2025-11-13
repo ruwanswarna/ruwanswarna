@@ -7,18 +7,10 @@
 I am a Software Engineering student aspiring to be a fullstack web developer.
 My main interest lies on backend developing, but I am comfortable in frontend development too.
 
-In addition to being a student at National Institute of Business Management, I am currently following <a href="https://www.coursera.org/specializations/meta-front-end-developer" target="_blank">Meta Front-End Developer Specialization</a> course series at coursera.com.
-
 Reach Me at **ars.obadage@gmail.com**
 
 ### Some of my personal interests
 🚀 - I'm interested in rockets, space flight and space in general.
-
-🌎 - I'm fairly active in reddit where I get to learn new stuff.
-
-😍 - A big fan of spaceX.
-
-😕 - Used to write to roar.lk before it was discontinued. 
 
 
 ## Tools and technologies I'm familiar with
