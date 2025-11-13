@@ -8,9 +8,17 @@ I am a Software Engineering student aspiring to be a fullstack web developer.
 My main interest lies on backend developing, but I am comfortable in frontend development too.
 
 Reach Me at **ars.obadage@gmail.com**
+[![Email](https://img.shields.io/badge/Email-ars.obadage%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ars.obadage@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anusha-obadage/)
 
 ### Some of my personal interests
 🚀 - I'm interested in rockets, space flight and space in general.
+
+###Current Goals
+
+🌱 Deepening my knowledge of Laravel and React
+
+💻 Building small full-stack projects to sharpen my skills
 
 
 ## Tools and technologies I'm familiar with
