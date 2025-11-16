@@ -34,9 +34,6 @@ Reach Me at
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ruwanswarna&theme=tokyonight)  
 
 
-### Some of my personal interests
-- 🌌 Enthusiastic about **rockets**, **space flight**, and **space exploration**  
-
 ###Current Goals
 
 🌱 Deepening my knowledge of Laravel and React
