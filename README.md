@@ -29,6 +29,8 @@ Reach Me at
 ## 📊 GitHub Stats  
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruwanswarna&show_icons=true&theme=tokyonight)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruwanswarna&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanswarna&layout=compact&theme=tokyonight)
 <br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ruwanswarna&theme=tokyonight)  
