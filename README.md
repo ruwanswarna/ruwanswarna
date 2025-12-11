@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=ruwanswarna&color=blue&style=flat)
 
 # Welcome To My Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
